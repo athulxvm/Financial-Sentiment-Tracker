@@ -1,0 +1,7 @@
+requests
+pandas
+matplotlib
+yfinance
+transformers
+torch
+tqdm
